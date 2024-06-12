@@ -65,7 +65,7 @@ a {
     left: 0px;
     width: 1366px;
     height: 648px;
-    background-image: url(/img/bg1.png);
+    background-image: url(../img/bg1.png);
 }
 
 .area>h1 {
@@ -338,7 +338,7 @@ a {
     width: 1366px;
     height: 600px;
     opacity: 1;
-    background-image: url(/img/bg4.png);
+    background-image: url(../img/bg4.png);
 }
 
 .background4>h1 {
